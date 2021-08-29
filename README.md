@@ -19,6 +19,8 @@ Or if you are using Yarn
 
 Also make sure you set the `pluginDomain` in the **package.json** file to match your plugin domain name
 
+**The `pluginDomain` can only be a valid zuri.chat subdomain e.g plugin.zuri.chat**
+
 ## How To Build Your Plugin
 
 To build, your simply build it like any CRA react project by running
