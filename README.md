@@ -1,4 +1,4 @@
-# Zuri Chat App Developement - React Start Template
+# Zuri Chat App Development - React Starter Template
 
 This starter template was generated with [Create React App](https://github.com/facebook/create-react-app).
 It only comes with a few modification to make zuri.chat app development easy.
